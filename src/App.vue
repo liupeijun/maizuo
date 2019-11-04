@@ -21,7 +21,7 @@
 import child1 from '@/components/Child1' // @ src绝对路径
 import Axios from 'axios'
 // Vue.component('child1', child1)
-
+// var myname = 'dawdwa'
 export default {
   data () {
     return {
