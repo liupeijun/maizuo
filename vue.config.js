@@ -1,6 +1,7 @@
 module.exports = {
   // lintOnSave: false
   // 选项...
+  productionSourceMap: false,
   devServer: {
     overlay: {
       warnings: false,
