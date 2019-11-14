@@ -1,5 +1,5 @@
 module.exports = {
-  // lintOnSave: false
+  lintOnSave: false,
   // 选项...
   productionSourceMap: false,
   devServer: {
