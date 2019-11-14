@@ -14,7 +14,10 @@ module.exports = {
     'no-unused-expressions': 'off',
     'no-return-assign': 'off',
     'no-throw-literal': 'off',
-    'new-cap': 'off'
+    'new-cap': 'off',
+    'eqeqeq': 'off',
+    'no-mixed-operators': 'off',
+    'no-undef': 'off'
   },
   parserOptions: {
     parser: 'babel-eslint'
