@@ -13,7 +13,7 @@ module.exports = {
         changeOrigin: true
       },
       '/api': {
-        target: 'aaaaaa'
+        target: 'bbbb'
       }
     }
   }
