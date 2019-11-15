@@ -2,6 +2,7 @@ module.exports = {
   lintOnSave: false,
   // 选项...
   productionSourceMap: false,
+  publicPath: '/maizuo/',
   devServer: {
     overlay: {
       warnings: false,
